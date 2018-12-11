@@ -3,3 +3,4 @@ hello git
 hello test
 add new text
 add two text
+add three text
